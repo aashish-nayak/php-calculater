@@ -1,4 +1,6 @@
 <?php 
+
+// this is testing text for git changes 
 if(isset($_POST['calculate'])){
     $num1 = $_POST['num1'];
     $num2 = $_POST['num2'];
